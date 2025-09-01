@@ -46,7 +46,7 @@ Neste repositório, você encontrará algoritmos que exploram:
 
 ## 🧑‍💻 Desenvolvedores
 
--   Laurino Bonifacio De Abreu 
+-   Laurino Bonifacio De Abreu.
 -   Davi Mendes Medeiros.
 -   Pedro Cardoso Santiago Neto.
 
