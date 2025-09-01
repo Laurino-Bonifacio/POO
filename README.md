@@ -36,20 +36,6 @@ Neste repositório, você encontrará algoritmos que exploram:
 
 ---
 
-## 🚀 Como Executar os Exercícios
-
-Para testar as soluções, siga os passos abaixo:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [URL-DO-SEU-REPOSITORIO]
-    ```
-2.  **Abra em sua IDE preferida** (Eclipse, IntelliJ, VS Code, etc.).
-3.  **Navegue até o arquivo `.java`** do exercício que deseja executar.
-4.  **Compile e execute** a classe principal (`main`).
-
----
-
 ## 🛠️ Ferramentas Utilizadas
 
 -   **Linguagem:** Java
