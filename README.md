@@ -46,8 +46,9 @@ Neste repositório, você encontrará algoritmos que exploram:
 
 ## 🧑‍💻 Desenvolvedores
 
--   Davi Mendes Medeiros
--   Pedro Cardoso Santiago Neto
+-   Laurino Bonifacio De Abreu 
+-   Davi Mendes Medeiros.
+-   Pedro Cardoso Santiago Neto.
 
 ---
 
