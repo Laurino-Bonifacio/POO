@@ -11,10 +11,9 @@
 ![Java](https://img.shields.io/badge/Linguagem-Java-orange?style=for-the-badge&logo=java)
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-brightgreen?style=for-the-badge)
 ![Instituicao](https://img.shields.io/badge/IFCE-Maranguape-blue?style=for-the-badge)
-
 </div>
-
----
+ 
+--- 
 
 ## 🎯 Sobre o Projeto
 
